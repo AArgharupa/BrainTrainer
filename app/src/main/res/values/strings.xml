@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="help">If you are new here, please tap on the \"HELP\" button</string>
+    <string name="TextView">"Welcome to Argharupa's Brain Trainer App. This app helps you to train your brain.\n\n\n1. At first tap on the \"Go\" Button.\n\n2.You get only 30 seconds. You can check the timer in the top left hand corner of your mobile screen.\n\n3. Within this time, you have to solve mathematical addition calculations appearing in the top of the screen  as much as you can.\n\n4. After 30 seconds, When you are done!, you can check in the top right corner how many calculations you have made correctly.\n\n                          ENJOY!!  "</string>
+</resources>
